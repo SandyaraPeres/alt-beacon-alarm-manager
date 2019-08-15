@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">POC_BEACON</string>
+    <string name="title_activity_poc">POCActivity</string>
+</resources>
